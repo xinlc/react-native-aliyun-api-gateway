@@ -1,0 +1,6 @@
+node_modules
+out
+coverage
+build/
+es5/
+.nyc_output
